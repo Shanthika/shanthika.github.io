@@ -13,7 +13,7 @@ profile:
   #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -21,3 +21,7 @@ Hi!! I'm doing my Master's under the guidance of [Dr.Avinash Sharma](https://sit
 
 
 I'm currently working on scene understanding and automative terrain generation. I've previously worked on object detection and tracking in $360^{\circ}$ videos and point cloud upsampling. I've completed my Bachelor's degree in Computer Science at [KLE Technological University](https://www.kletech.ac.in/) guided by [Uma Mudengudi](https://scholar.google.co.in/citations?user=xBaqwmkAAAAJ&hl=en)
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=0hQuHNRnJWINDf05ONImwosOZDiqkfizGJtbqZW-qZE&cl=ffffff&w=a"></script>
+

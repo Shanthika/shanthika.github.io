@@ -7,7 +7,7 @@ first_name: Shanthika
 middle_name:
 last_name: Naik
 email: shanthika.naik26@gmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: > CVIT, IIIT Hyderabad # the ">" symbol means to ignore newlines until "footer_text:"
 
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -27,7 +27,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -54,10 +54,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: Shanthika # your GitHub user name
-gitlab_username: Shanthika # your GitLab user name
+gitlab_username:  # your GitLab user name
 twitter_username: shanthika_naik # your Twitter handle
-linkedin_username: linkedin.com/in/shanthikanaik # your LinkedIn user name
-scholar_userid: https://scholar.google.com/citations?user=HcGpKdEAAAAJ&hl=en # your Google Scholar ID
+linkedin_username: shanthikanaik # your LinkedIn user name
+scholar_userid: HcGpKdEAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
