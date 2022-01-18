@@ -20,4 +20,4 @@ social: true  # includes social icons at the bottom of the page
 Hi!! I'm doing my Master's under the guidance of [Dr.Avinash Sharma](https://sites.google.com/site/asharmaresearch/) at the [CVIT](https://cvit.iiit.ac.in/) center in IIIT, Hyderabad. I am interested in 3D vision and Deep Learning. 
 
 
-I'm currently working on scene understanding and automative terrain generation. I've previously worked on object detection and tracking in $360\degree$ videos and point cloud upsampling. I've completed my Bachelor's degree in Computer Science at [KLE Technological University](https://www.kletech.ac.in/) guided by [Uma Mudengudi](https://scholar.google.co.in/citations?user=xBaqwmkAAAAJ&hl=en)
+I'm currently working on scene understanding and automative terrain generation. I've previously worked on object detection and tracking in $360^{\circ}$ videos and point cloud upsampling. I've completed my Bachelor's degree in Computer Science at [KLE Technological University](https://www.kletech.ac.in/) guided by [Uma Mudengudi](https://scholar.google.co.in/citations?user=xBaqwmkAAAAJ&hl=en)
