@@ -23,5 +23,5 @@ Hi!! I'm doing my Master's under the guidance of [Dr.Avinash Sharma](https://sit
 I'm currently working on scene understanding and automative terrain generation. I've previously worked on object detection and tracking in $360^{\circ}$ videos and point cloud upsampling. I've completed my Bachelor's degree in Computer Science at [KLE Technological University](https://www.kletech.ac.in/) guided by [Uma Mudengudi](https://scholar.google.co.in/citations?user=xBaqwmkAAAAJ&hl=en)
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=0hQuHNRnJWINDf05ONImwosOZDiqkfizGJtbqZW-qZE&cl=ffffff&w=a"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=0hQuHNRnJWINDf05ONImwosOZDiqkfizGJtbqZW-qZE&cl=ffffff&w=a"></script> -->
 
