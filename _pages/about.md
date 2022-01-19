@@ -8,7 +8,7 @@ profile:
   align: right
   image: photo.jpg
   address: >
-    <p><a href='https://drive.google.com/file/d/1m70ubfDpu0IiHQY7w0q5Yz_eIaKHIkkr/view?usp=sharing'>CV</a></p>
+    <p><a href='assets/pdf/Shanthika_Resume.pdf'>CV</a></p>
     <p>CVIT,IIIT Hyderabad</p>
 
 news: true  # includes a list of news items
