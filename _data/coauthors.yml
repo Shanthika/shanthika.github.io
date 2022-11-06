@@ -2,6 +2,20 @@
   - firstname: ["Shanthika", "S."]
     url: http://shanthika.github.io/
 
+"Sharma":
+  - firstname: ["Avinash"]
+    url: https://3dcomputervision.github.io/about/
+
+"Srivastava":
+  - firstname: ["Astitva"]
+    url: http://astitvasri.github.io
+
+"Pokhariya":
+  - firstname: ["Chandradeep"]
+    url: https://coreqode.github.io/
+
+
+
 # "Podolsky":
 #   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
 #     url: https://en.wikipedia.org/wiki/Boris_Podolsky
