@@ -23,6 +23,28 @@
   - firstname: ["KS", "K S","K.S","K.S."]
     url: https://www.iiit.ac.in/people/faculty/rajan/
 
+
+"Singh":
+  - firstname: ["Kunwar"]
+    url: https://www.linkedin.com/in/kunwar-maheep-singh-889675211/?originalSubdomain=in
+
+
+"Raj":
+  - firstname: ["Amit"]
+    url: https://amitraj93.github.io/
+
+
+"Jampani":
+  - firstname: ["Varun"]
+    url: https://varunjampani.github.io/
+
+
+
+"Sirikonda":
+  - firstname: ["Dhawal"]
+    url: https://dhawal1939.github.io/
+
+
 # "Podolsky":
 #   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
 #     url: https://en.wikipedia.org/wiki/Boris_Podolsky
