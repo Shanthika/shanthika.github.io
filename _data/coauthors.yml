@@ -1,34 +1,82 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Naik":
+  - firstname: ["Shanthika", "S."]
+    url: http://shanthika.github.io/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Sharma":
+  - firstname: ["Avinash"]
+    url: https://3dcomputervision.github.io/about/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Srivastava":
+  - firstname: ["Astitva"]
+    url: http://astitvasri.github.io
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Pokhariya":
+  - firstname: ["Chandradeep"]
+    url: https://coreqode.github.io/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Jain":
+  - firstname: ["Aryamaan"]
+    url: https://github.com/aryamaanjain
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Rajan":
+  - firstname: ["KS", "K S","K.S","K.S."]
+    url: https://www.iiit.ac.in/people/faculty/rajan/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Singh":
+  - firstname: ["Kunwar"]
+    url: https://www.linkedin.com/in/kunwar-maheep-singh-889675211/?originalSubdomain=in
+
+
+"Raj":
+  - firstname: ["Amit"]
+    url: https://amitraj93.github.io/
+
+
+"Jampani":
+  - firstname: ["Varun"]
+    url: https://varunjampani.github.io/
+
+
+
+"Sirikonda":
+  - firstname: ["Dhawal"]
+    url: https://dhawal1939.github.io/
+
+
+# "adams":
+#   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
+#     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+
+# "podolsky":
+#   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
+#     url: https://en.wikipedia.org/wiki/Boris_Podolsky
+
+# "rosen":
+#   - firstname: ["Nathan", "N."]
+#     url: https://en.wikipedia.org/wiki/Nathan_Rosen
+
+# "bach":
+#   - firstname: ["Johann Sebastian", "J. S."]
+#     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+
+#   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
+#     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+
+# "przibram":
+#   - firstname: ["Karl"]
+#     url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+
+# "schrodinger":
+#   - firstname: ["Erwin"]
+#     url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+
+# "lorentz":
+#   - firstname: ["Hendrik Antoon"]
+#     url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+
+# "planck":
+#   - firstname: ["Max"]
+#     url: https://en.wikipedia.org/wiki/Max_Planck

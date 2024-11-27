@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-05-04 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Technical paper [Deep Generative Framework for Interactive 3D Terrain Authoring and Manipulation](https://arxiv.org/pdf/2201.02369.pdf) accepted at **IGARSS 2022**.

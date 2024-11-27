@@ -1,25 +1,26 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi!! 
+I'm currently an intern at the [VCAI](https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence) lab in [MPI](https://www.mpi-inf.mpg.de/home), Saarland. I'm working on learning based Cloth Simulation to improve speed and accuracy. I recently finished my Master's from [CVIT](https://cvit.iiit.ac.in/) center at IIIT, Hyderabad, under the guidance of [Dr.Avinash Sharma](https://sites.google.com/site/asharmaresearch/). My research interests lie at the intersection of Deep Learning and Geometric Processing.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+I've previously worked on 3D garment digitization and retargetting, UV parametrization, automated terrain generation, point cloud upsampling, scene understanding and object detection and tracking in $$360^{\circ}$$ videos. I've completed my Bachelor's degree in Computer Science at [KLE Technological University](https://www.kletech.ac.in/) guided by [Uma Mudengudi](https://scholar.google.co.in/citations?user=xBaqwmkAAAAJ&hl=en).
+
+I indulge myself in books, sketching and painting in my free time :)
