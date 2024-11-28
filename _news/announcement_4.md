@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Technical paper [Discretization-Agnostic Deep Self-Supervised 3D Surface Parameterization](https://coreqode.github.io/diff_param/) accepted at **SIGGRAPH Asia 2022, Technical Communications**.
+Technical paper [Discretization-Agnostic Deep Self-Supervised 3D Surface Parameterization](https://coreqode.github.io/diff_param) accepted at **SIGGRAPH Asia 2022, Technical Communications**.
