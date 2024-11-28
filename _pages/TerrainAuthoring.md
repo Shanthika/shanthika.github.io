@@ -86,8 +86,10 @@ inputs. We perform a thorough qualitative and quantitative analysis and provide 
 <h4>Terrain Generation via Interactive UI</h4>
 
  <div align="center">
- <iframe width="560" height="315" src="/assets/vid/ui.mp4" title="Video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- </div>
+ <!-- <iframe width="560" height="315" src="/assets/video/ui.mp4" title="Video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ -->
+<video style="width:100%" src="/assets/video/ui.mp4" controls=""></video>
+</div>
 
 <hr>
 
