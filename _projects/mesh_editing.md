@@ -5,6 +5,6 @@ description: This repo contains implementation of laplacian surface editing algo
 img: assets/img/laplacian_edit.png
 importance: 1
 category: work
+redirect: https://github.com/Shanthika/Geometric-Processing
 ---
 
-[Github](https://github.com/Shanthika/Geometric-Processing)

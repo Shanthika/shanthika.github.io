@@ -5,6 +5,7 @@ description: This repo contains the implementation of solving Poisson equation o
 img: assets/img/laplace.png
 importance: 1
 category: work
+redirect: https://github.com/Shanthika/Laplace_FEM/tree/main
 ---
 
-[Github](https://github.com/Shanthika/Laplace_FEM/tree/main)
+

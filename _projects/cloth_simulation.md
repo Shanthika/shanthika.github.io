@@ -5,6 +5,7 @@ description: This repo contains implementation of a cloth simulator using the ma
 img: assets/img/cloth_sim.png
 importance: 1
 category: work
+redirect: https://github.com/Shanthika/cloth_sim
 ---
 
-[Github](https://github.com/Shanthika/cloth_sim)
+
