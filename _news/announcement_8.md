@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined as an SRF at [IIT Jodhpur]
+Joined as a Senior Research Fellow at **IIT Jodhpur**.
