@@ -18,7 +18,7 @@ category: work
         <a href="https://3dcomputervision.github.io/about/">Avinash Sharma</a><sup>1</sup>,
     </span>
     <span class="author-block">
-        <a href="https://www.iiit.ac.in/faculty/k-s-rajan/"> K S Rajan</a><sup>1</sup>,
+        <a href="https://www.iiit.ac.in/faculty/k-s-rajan/"> K S Rajan</a><sup>1</sup>
     </span>
     <br>
     <span class="author-block"><sup>1</sup>International Institute of Information Technology Hyderabad, India</span>
