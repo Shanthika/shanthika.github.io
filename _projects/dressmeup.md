@@ -86,7 +86,8 @@ category: work
 <h4>Embedding Calculations</h4>
 
 <p align="center">
- <img src="/assets/dressmeup/iso.mp4" style="width:100% ; height:auto">
+<video style="width:100%" src="/assets/dresssmeup/iso.mp4" controls=""></video>
+
  </p>
 
 <hr>
@@ -107,7 +108,7 @@ category: work
 <h4>Human Meshes</h4>
 
 <p align="center">
- <img src="/assets/dressmeup/thuman_cloth3d.mkv" style="width:90% ; height:auto">
+<video style="width:100%" src="/assets/dressmeup/thuman_cloth3d.mkv" controls=""></video>
  </p>
 
 <hr>
@@ -115,8 +116,9 @@ category: work
 <h4>3D Bicar Charactors</h4>
 
 <p align="center">
- <img src="/assets/dressmeup/rabit.mkv" style="width:90% ; height:auto">
- </p>
+<video style="width:100%" src="/assets/dressmeup/rabit.mkv" controls=""></video>
+
+</p>
 
 <hr>
 
@@ -174,14 +176,13 @@ category: work
 
 <h3>BibTex</h3>
 <pre><code>
-@inproceedings{naik2022deep,
-      abbr={IGARSS},
-      title={Deep Generative Framework for Interactive 3D Terrain Authoring and Manipulation}, 
-      author={Shanthika Naik and Aryamaan Jain and Avinash Sharma and KS Rajan},
-      booktitle={IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium},
-      year={2022},
-      pages={6410-6413},
-      doi={10.1109/IGARSS46834.2022.9884954}
+@inproceedings{naik2024dressmeupdatasetmethod,
+      title={Dress-Me-Up: A Dataset & Method for Self-Supervised 3D Garment Retargeting}, 
+      author={Shanthika Naik and Astitva Srivastava and Kunwar Singh and Amit Raj and Varun Jampani and Avinash Sharma},
+      year={2024},
+      eprint={2401.03108},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV} 
 }
  </code></pre>
 
