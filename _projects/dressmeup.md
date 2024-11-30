@@ -87,7 +87,7 @@ category: work
 <h4><b>Embedding Calculations</b></h4>
 
 <p align="center">
-<video style="width:100%" src="/assets/dresssmeup/iso.mp4" controls=""></video>
+<video style="width:100%" src="/assets/dresssmeup/iso_speed.mkv" controls=""></video>
 </p>
 
 <hr>
@@ -99,9 +99,9 @@ category: work
 <hr>
 <h4><b>Loose Garments</b></h4>
 
- <div align="center"> 
+<p align="center"> 
 <video style="width:100%" src="/assets/dresssmeup/loose_garments.mkv" controls=""></video>
-</div>
+</p>
 <br><br>
 
 <hr>
@@ -110,7 +110,7 @@ category: work
 
 <p align="center">
 <video style="width:100%" src="/assets/dressmeup/thuman_cloth3d.mkv" controls=""></video>
- </p>
+</p>
 <br><br>
 
 <hr>
