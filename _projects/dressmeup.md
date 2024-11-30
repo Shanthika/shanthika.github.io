@@ -80,14 +80,14 @@ category: work
 <br><br>
 <h2><b>Architecture</b></h2> <br>
  <div align="center">
- <img src="/assets/dressmeup/arch.jpg" style="width:100% ; height:auto">
+ <img src="/assets/dressmeup/arch.jpg" style="width:90% ; height:auto">
  </div>
 
 <br><br>
 <h4><b>Embedding Calculations</b></h4>
 
 <p align="center">
-<video style="width:100%" src="/assets/dresssmeup/iso_speed.mkv" controls=""></video>
+<video style="width:90%" src="/assets/dresssmeup/iso_speed.mkv" controls=""></video>
 </p>
 
 <hr>
@@ -100,7 +100,7 @@ category: work
 <h4><b>Loose Garments</b></h4>
 
 <p align="center"> 
-<video style="width:100%" src="/assets/dresssmeup/loose_garments.mkv" controls=""></video>
+<video style="width:90%" src="/assets/dresssmeup/loose_garments.mkv" controls=""></video>
 </p>
 <br><br>
 
@@ -109,7 +109,7 @@ category: work
 <h4><b>Human Meshes</b></h4>
 
 <p align="center">
-<video style="width:100%" src="/assets/dressmeup/thuman_cloth3d.mkv" controls=""></video>
+<video style="width:90%" src="/assets/dressmeup/thuman_cloth3d.mkv" controls=""></video>
 </p>
 <br><br>
 
@@ -118,7 +118,7 @@ category: work
 <h4><b>3D Bicar Charactors</b></h4>
 
 <p align="center">
-<video style="width:100%" src="/assets/dressmeup/rabit.mkv" controls=""></video>
+<video style="width:90%" src="/assets/dressmeup/rabit.mkv" controls=""></video>
 
 </p>
 <br><br>
@@ -128,7 +128,7 @@ category: work
 <h4><b>Layered Garments</b></h4>
 
 <p align="center">
-<video style="width:100%" src="/assets/dressmeup/layered.mkv" controls=""></video>
+<video style="width:90%" src="/assets/dressmeup/layered.mkv" controls=""></video>
 </p>
 <br><br>
 
@@ -136,10 +136,20 @@ category: work
 
 <h4><b>Internet Images</b></h4>
 
-<p align="center">
-<video style="width:100%" src="/assets/dressmeup/internet_yoga.mkv" controls=""></video>
-<video style="width:100%" src="/assets/dressmeup/internet_tom.mkv" controls=""></video>
-</p>
+
+<div class="item item-steve">
+    <video poster="" id="steve"   controls muted    playsinline height="100%">
+    <source src="/assets/dressmeup/internet_yoga.mkv"
+            type="video/webm">
+    </video>
+</div>
+<div class="item item-chair-tp">
+    <video poster="" id="chair-tp"   controls muted    playsinline height="100%">
+    <source src="/assets/dressmeup/internet_tom.mkv"
+            type="video/webm">
+    </video> 
+</div>
+
 
 <hr>
 
