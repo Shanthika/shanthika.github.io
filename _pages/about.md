@@ -24,3 +24,4 @@ I'm currently an intern at the [VCAI](https://www.mpi-inf.mpg.de/departments/vis
 I've previously worked on 3D garment digitization and retargetting, UV parametrization, automated terrain generation, point cloud upsampling, scene understanding and object detection and tracking in $$360^{\circ}$$ videos. I've completed my Bachelor's degree in Computer Science at [KLE Technological University](https://www.kletech.ac.in/) guided by [Uma Mudengudi](https://scholar.google.co.in/citations?user=xBaqwmkAAAAJ&hl=en).
 
 I indulge myself in books, sketching and painting in my free time :)
+

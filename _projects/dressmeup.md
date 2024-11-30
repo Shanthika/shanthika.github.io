@@ -11,21 +11,25 @@ category: work
 
 <div class="is-size-2 publication-authors" align="center">
     <span class="author-block">
-        <a>Shanthika Naik</a>,</span>
+        <a href="https://shanthika.github.io">Shanthika Naik</a><sup>1</sup>,</span>
     <span class="author-block">
-        <a>Astitva Srivastava</a>,</span>
+        <a href="https://github.com/aryamaanjain">Astitva Srivastava</a><sup>2</sup>,</span>
     <span class="author-block">
-        <a>Kunwar Singh</a>,</span>
+        <a href="https://github.com/aryamaanjain">Kunwar Singh</a><sup>2</sup>,</span>
     <span class="author-block">
-        <a>Varun Jampani</a>,</span>
+        <a href="https://3dcomputervision.github.io/about/">Varun Jampani</a><sup>3</sup>,</span>
     <span class="author-block">
-        <a>Amit Raj</a>,</span>
+        <a href="https://github.com/aryamaanjain">Amit Raj</a><sup>4</sup>,</span>
     <span class="author-block">
-        <a>Avinash Sharma</a></span>    
-
+        <a href="https://www.iiit.ac.in/faculty/k-s-rajan/">Avinash Sharma</a><sup>1</sup>
+    </span>
     <br>
-    
+    <span class="author-block"><sup>1</sup>IITJ, India</span>
+    <span class="author-block"><sup>2</sup>IIITH, India</span>
+    <span class="author-block"><sup>3</sup>Stability AI, India</span>
+    <span class="author-block"><sup>4</sup>Google Research</span>
 </div>
+
 
 <br>
 <div align="center">
@@ -65,38 +69,39 @@ category: work
 
 
 <br><br>
+<img src="/assets/dressmeup/teaser.png" style="width:100% ; height:auto">
+<br><br>
 
- <img src="/assets/dressmeup/teaser.png" style="width:100% ; height:auto">
- <br><br>
+<hr>
 
- <h3><b>Abstract</b></h3>
- <p>
-    3D garment retargeting for digital characters \& avatars involves non-rigid deformation of a 3D garment mesh to plausibly fit the target body mesh in a different pose. Existing neural methods for garment simulation/draping make assumption that the 3D garment is initially fitted over the 3D body, and generally require a canonicalized representation of garments, limiting them to parametric settings. In this paper, we present a novel approach to achieve 3D garment retargeting under non-parametric settings. We propose a novel isomap-based representation to first estimate robust correspondences between garment and body mesh to achieve an initial coarse retargeting, followed by a fast and efficient neural optimization, governed by Physics-based constraints. The proposed framework enables a fast inference pipeline and quick optimization for any 3D garment.
+<h3><b>Abstract</b></h3>
+<p>
+3D garment retargeting for digital characters \& avatars involves non-rigid deformation of a 3D garment mesh to plausibly fit the target body mesh in a different pose. Existing neural methods for garment simulation/draping make assumption that the 3D garment is initially fitted over the 3D body, and generally require a canonicalized representation of garments, limiting them to parametric settings. In this paper, we present a novel approach to achieve 3D garment retargeting under non-parametric settings. We propose a novel isomap-based representation to first estimate robust correspondences between garment and body mesh to achieve an initial coarse retargeting, followed by a fast and efficient neural optimization, governed by Physics-based constraints. The proposed framework enables a fast inference pipeline and quick optimization for any 3D garment.
 
-    We perform extensive experiments on publicly available datasets \& our new dataset of 3D clothing and report superior quantitative and qualitative results in comparison to SOTA methods, while demonstrating new capabilities.
- </p>
+We perform extensive experiments on publicly available datasets \& our new dataset of 3D clothing and report superior quantitative and qualitative results in comparison to SOTA methods, while demonstrating new capabilities.
+</p>
 
 
 <br><br>
 <h2><b>Architecture</b></h2> <br>
- <div align="center">
- <img src="/assets/dressmeup/arch.jpg" style="width:90% ; height:auto">
- </div>
+<div align="center">
+<img src="/assets/dressmeup/arch.jpg" style="width:90% ; height:auto">
+
+</div>
 
 <br><br>
 <h4><b>Embedding Calculations</b></h4>
 
-<p align="center">
+<div align="center">
 <video style="width:90%" src="/assets/dresssmeup/iso_speed.mkv" controls=""></video>
-</p>
-
+</div>
 <hr>
 
 <br><br>
 
-<h2><b>Results</b> </h2><br>
+<h2><b>Results</b> </h2>
 
-<hr>
+<hr><br>
 <h4><b>Loose Garments</b></h4>
 
 <p align="center"> 
@@ -136,21 +141,10 @@ category: work
 
 <h4><b>Internet Images</b></h4>
 
-
-<div class="item item-steve">
-    <video poster="" id="steve"   controls muted    playsinline height="100%">
-    <source src="/assets/dressmeup/internet_yoga.mkv"
-            type="video/webm">
-    </video>
-</div>
-<div class="item item-chair-tp">
-    <video poster="" id="chair-tp"   controls muted    playsinline height="100%">
-    <source src="/assets/dressmeup/internet_tom.mkv"
-            type="video/webm">
-    </video> 
-</div>
-
-
+<p align="center">
+<video style="width:90%" src="/assets/dressmeup/internet_yoga.mkv" controls=""></video>
+<video style="width:90%" src="/assets/dressmeup/internet_tom.mkv" controls=""></video>
+</p>
 <hr>
 
 
@@ -164,8 +158,8 @@ category: work
  <div align="center">
  <!-- <iframe width="560" height="315" src="/assets/video/ui.mp4" title="Video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  -->
-<video style="width:100%" src="/assets/dressmeup/dig_1.mkv" controls=""></video>
-<video style="width:100%" src="/assets/dressmeup/dig_2.mkv" controls=""></video>
+<video style="width:90%" src="/assets/dressmeup/dig_1.mkv" controls=""></video>
+<video style="width:90%" src="/assets/dressmeup/dig_2.mkv" controls=""></video>
 </div>
 
 <br><br>
@@ -176,8 +170,8 @@ category: work
  <div align="center">
  <!-- <iframe width="560" height="315" src="/assets/video/ui.mp4" title="Video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  -->
-<video style="width:100%" src="/assets/dressmeup/drapenet_1.mkv" controls=""></video>
-<video style="width:100%" src="/assets/dressmeup/drapenet_2.mkv" controls=""></video>
+<video style="width:90%" src="/assets/dressmeup/drapenet_1.mkv" controls=""></video>
+<video style="width:90%" src="/assets/dressmeup/drapenet_2.mkv" controls=""></video>
 </div>
 
 <br><br>
@@ -185,8 +179,8 @@ category: work
 <h2><b>Our Dataset</b></h2>
 
 <p align="center">
-<video style="width:100%" src="/assets/dressmeup/dataset_topwear.mp4" controls=""></video>
-<video style="width:100%" src="/assets/dressmeup/dataset_bottomwear.mp4" controls=""></video>
+<video style="width:90%" src="/assets/dressmeup/dataset_topwear.mp4" controls=""></video>
+<video style="width:90%" src="/assets/dressmeup/dataset_bottomwear.mp4" controls=""></video>
 </p>
 
 <hr>
