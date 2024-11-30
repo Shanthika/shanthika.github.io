@@ -92,8 +92,8 @@ We perform extensive experiments on publicly available datasets and our new data
 <br><br>
 <h4><b>Embedding Calculations</b></h4>
 <hr><br>
-<p align="center">
-<video style="width:90%" src="/assets/dresssmeup/iso_speed.mkv" controls=""></video>
+<p align="center"> 
+<video style="width:90%" src="/assets/dressmeup/iso_speed3.mkv" controls=""></video>
 </p>
 <hr>
 
@@ -129,10 +129,11 @@ We perform extensive experiments on publicly available datasets and our new data
 
 <br><br>
 
-<h4><b>Layered Garments</b></h4>
+<h4><b>Layered Garments</b></h4> 
 <hr><br>
 <p align="center">
 <video style="width:90%" src="/assets/dressmeup/layered.mkv" controls=""></video>
+
 </p>
 <hr>
 
@@ -176,6 +177,7 @@ We perform extensive experiments on publicly available datasets and our new data
 <video style="width:90%" src="/assets/dressmeup/dataset_topwear.mp4" controls=""></video>
 <video style="width:90%" src="/assets/dressmeup/dataset_bottomwear.mp4" controls=""></video>
 </p>
+
 
 <hr>
 <br><br>
