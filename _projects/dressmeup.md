@@ -33,7 +33,7 @@ category: work
 <br>
 <div align="center">
     <span class="link-block">
-        <a href="https://arxiv.org/pdf/2401.03108.pdf"
+        <a  href="https://shanthika.github.io/assets/pdf/vton.pdf"
             class="external-link button is-normal is-rounded is-dark">
             <span class="icon">
                 <i class="fas fa-file-pdf"></i>
@@ -42,7 +42,7 @@ category: work
         </a>
     </span> 
     <span class="link-block">
-        <a href="https://arxiv.org/pdf/2401.03108.pdf"
+        <a href="https://shanthika.github.io/projects/dressmeup/"
             class="external-link button is-normal is-rounded is-dark">
             <span class="icon">
                 <i class="fas fa-file-pdf"></i>
